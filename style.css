@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color: white;
+    /* border: blue solid 1px; */
+    
+}
+form{
+  
+    padding: 100px 100px 100px 100px;
+    border: 1px solid blue;
+}
+.input{
+    width: 70%;
+    border: none;
+    border-bottom: 2px solid white;
+}
+.submit{
+    background-color: aliceblue;
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+}.top-p{
+    color: aquamarine;
+    margin-bottom: 0px;
+}
